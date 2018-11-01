@@ -1,0 +1,7 @@
+C:\VGD\CodeXX101\CodeXX101\bin\Debug\CodeXX101.exe.config
+C:\VGD\CodeXX101\CodeXX101\bin\Debug\CodeXX101.exe
+C:\VGD\CodeXX101\CodeXX101\bin\Debug\CodeXX101.pdb
+C:\VGD\CodeXX101\CodeXX101\obj\Debug\CodeXX101.csprojAssemblyReference.cache
+C:\VGD\CodeXX101\CodeXX101\obj\Debug\CodeXX101.csproj.CoreCompileInputs.cache
+C:\VGD\CodeXX101\CodeXX101\obj\Debug\CodeXX101.exe
+C:\VGD\CodeXX101\CodeXX101\obj\Debug\CodeXX101.pdb
