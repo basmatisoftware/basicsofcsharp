@@ -10,9 +10,9 @@ namespace CodeXX101
     {
         static void Main(string[] args)
         {
-            Storing.Initialize();
-            Storing.ConstantsEnumsStructs();
-
+            //Storing.Initialize();
+            //Storing.ConstantsEnumsStructs();
+            Operations.Ternary();
 
             Console.WriteLine("Press ANY Key to EXIT.");
             Console.ReadKey();
