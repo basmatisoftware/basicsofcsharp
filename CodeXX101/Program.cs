@@ -12,7 +12,7 @@ namespace CodeXX101
         {
             //Storing.Initialize();
             //Storing.ConstantsEnumsStructs();
-            Operations.Ternary();
+            Statements.ForEachIterations();
 
             Console.WriteLine("Press ANY Key to EXIT.");
             Console.ReadKey();
